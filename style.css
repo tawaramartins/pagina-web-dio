@@ -1,0 +1,31 @@
+/*RESET CSS*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    font-size: 16;
+    margin: 1rem;
+}
+
+.title, .sub-title {
+    padding: 1rem;
+}
+
+.img-galaxy, .img-costelletion {
+    width: 400px;
+    margin: 1rem;
+}
+
+.menu {
+    text-decoration: none;
+}
+
+.curiosity {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 1rem;
+}

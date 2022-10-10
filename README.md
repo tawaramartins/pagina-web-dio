@@ -1,4 +1,4 @@
-<h2 text-align="center">Desafio de projeto do curso de HTML do Bootcamp da NTT Data oferecido pela <a href="https://web.dio.me"> Digital Innovation One.</a> </h2>
+<h3 text-align="center">Desafio de projeto do curso de HTML do Bootcamp da NTT Data oferecido pela <a href="https://web.dio.me"> Digital Innovation One.</a> </h3>
 
 <p>
 🔥 Sobre o desafio: 
